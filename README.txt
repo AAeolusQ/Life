@@ -1,1 +1,1 @@
-这是一个readme.txt
+添加LifeProject项目，这是一个练手项目，纯粹娱乐
